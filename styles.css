@@ -1,0 +1,44 @@
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+aside {
+    float: right;
+    max-width: 160px;
+    margin: 0;
+    padding: 12px;
+}
+
+section {
+    width:200px;
+    float:left;
+    padding:0px;
+}
+
+.button {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 270px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 4px solid #f44336;
+}
